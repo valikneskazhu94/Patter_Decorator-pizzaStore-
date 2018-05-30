@@ -1,0 +1,30 @@
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\PKO\Desktop\Git_Val\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\Новая папка (2)\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\IT Step\паттерны\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
